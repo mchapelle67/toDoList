@@ -1,0 +1,14 @@
+#btn {
+    margin-bottom: 15px;
+    width: 30%;
+}
+
+#toDoCard {
+    position: relative;
+}
+.toDoCard i {
+    position: absolute;
+    top: 39%;
+    left: 8%;
+}
+
